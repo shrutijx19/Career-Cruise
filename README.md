@@ -1,1 +1,1 @@
-Carrer Analysis Tool
+Career Analysis Tool
